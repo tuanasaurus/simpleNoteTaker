@@ -20,7 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="54a4e926-3ca5-40be-8dc7-a54b0061d2f8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Develop/routes/htmlRoutes.js" beforeDir="false" afterPath="$PROJECT_DIR$/Develop/routes/htmlRoutes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Develop/db/notes.js" beforeDir="false" afterPath="$PROJECT_DIR$/Develop/db/notes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Develop/routes/apiRoutes.js" beforeDir="false" afterPath="$PROJECT_DIR$/Develop/routes/apiRoute.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Develop/routes/htmlRoutes.js" beforeDir="false" afterPath="$PROJECT_DIR$/Develop/routes/htmlRoute.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Develop/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/Develop/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +37,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="package.json" />
       </list>
     </option>
   </component>
@@ -45,6 +52,8 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="14.8.0" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.11.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -56,6 +65,9 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Develop" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/node_modules" />
@@ -69,7 +81,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602286390039</updated>
-      <workItem from="1602286391075" duration="6528000" />
+      <workItem from="1602286391075" duration="9055000" />
     </task>
     <servers />
   </component>

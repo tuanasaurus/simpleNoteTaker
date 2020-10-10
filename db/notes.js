@@ -11,13 +11,13 @@ class Notes {
     constructor () {
         this.idDum = 0;
     }
-    read () {
+    read() {
         return readFileAsync("db/db.json", "utf8");
     }
     write(note) {
         return writeFileAsync("db/db.json", JSON.stringify(note))
     }
-    getNotes () {
+    getNotes() {
         console.logs("get notes")
         return this.read().then(notes => {
             console.log(notes)
@@ -45,7 +45,7 @@ class Notes {
     removeNote(id) {
         console.log("remove note");
         return this.getNotes()
-            .then(notes => notes.filter(note =>.id !== parseInt(id)))
+            .then(notes => notes.filter(note => note.id !== parseInt(id)))
             .then(updatedNotes => this.write(updatedNotes))
     }
 }
